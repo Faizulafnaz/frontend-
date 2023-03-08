@@ -1,0 +1,246 @@
+.title-bar{
+    position: relative;
+    width: 100%;
+    height: 65px;
+    background: #fff;
+    border-bottom: 2px solid rgb(0, 0, 0);
+
+}
+body{
+    margin:0px;
+}
+.title{
+    position:absolute;
+    color: black;
+    margin-top: 18px;
+    margin-left: 156px;
+    font-size: 28px;
+    font-family: "DM Serif Display", serif;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.title-content{
+    position: absolute;
+    color:black;
+    display: flex;
+    cursor: pointer;
+    list-style-type: none;
+    margin-left: 900px;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: Archivo, sans-serif;
+    margin-top: 7px;
+    letter-spacing: .03em;
+
+}
+.title-content li{
+    padding: 15px;;
+}
+.container1{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    background:rgb(248 240 211);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    
+}
+.content1{
+    position:absolute;
+    font-size: 59px;
+    font-weight: bolder;
+    line-height: 1;
+    padding: 94px;
+    margin-left: 40px;
+}
+.content2{
+    position: absolute;
+    line-height: 1.5;
+    font-family: Archivo, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 303px;
+    margin-left: 136px;
+    font-size: 20px;
+}
+.project{
+    position: absolute;
+    background-color:white;
+    border:2px solid black;
+    color: black;
+    font-size: 17px;
+    padding: 10px 15px;
+    margin-top: 470px;
+    margin-left: 138px;
+    
+}
+.learn{
+    position: absolute;
+    background-color:rgb(248 240 211);;
+    border:2px solid black;
+    color: black;
+    font-size: 17px;
+    padding: 10px 15px;
+    margin-top: 470px;
+    margin-left: 290px;
+
+
+}
+.firstimg{
+    position:absolute;
+    margin-left: 700px;
+    margin-top: 100px;
+    height: 500px;
+}
+.container2{
+    width:100%;
+    height:810px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.content3{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    line-height: 1;
+    margin-top: 65px;
+}
+.content4{
+    font-size: 28px;
+    text-align: center;
+}
+.project:hover{
+    cursor: pointer;
+    background: black;
+    color: white;
+}    
+.learn:hover{
+    cursor: pointer;
+    background: black;
+    color: white;
+}
+.firstbox{
+    border: 2px solid black;
+    width: 460px;
+    height: 126px;
+    margin-left: 285px;
+    margin-top: 60px;
+   
+}    
+.secondbox{
+    border: 2px solid black;
+    width: 460px;
+    height: 126px;
+    margin-left: 777px;
+    margin-top: -129px;
+    
+}
+.thirdbox{
+    border: 2px solid black;
+    width: 460px;
+    height: 126px;
+    margin-left: 285px;
+    margin-top: 19px;
+
+}
+.fourthbox{
+    border: 2px solid black;
+    width: 460px;
+    height: 126px;
+    margin-left: 777px;
+    margin-top: -129px;
+}
+.imgbox1{
+    height: 100px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.box1content{
+    margin-top: -82px;
+    margin-left: 128px;
+    font-size: 20px;
+    text-align: center;
+}
+.imgbox2{
+    height: 100px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.imgbox3{
+    height: 100px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.imgbox4{
+    height: 100px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.box2content{
+    margin-top: -82px;
+    margin-left: 128px;
+    font-size: 20px;
+    text-align: center;
+}
+.box3content{
+    margin-top: -82px;
+    margin-left: 128px;
+    font-size: 20px;
+    text-align: center;
+}
+.box4content{
+    margin-top: -82px;
+    margin-left: 128px;
+    font-size: 20px;
+    text-align: center;
+}
+.finalcontent{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: -510px;
+    margin-top: 100px;
+}
+.get{
+    background-color:white;
+    border:2px solid black;
+    color: black;
+    font-size: 17px;
+    padding: 10px 15px;
+    margin-left: -84px;
+}
+.get:hover{
+    cursor: pointer;
+    background: black;
+    color: white;
+
+}
+.container3{
+    position: relative;
+    width:  100%;
+    height: 140px;
+    background: black;
+
+}
+.final{
+    position: absolute;
+    color: #fff;
+    margin-left: 660px;
+    font-family: Archivo, sans-serif;
+    margin-top: 34px;
+    font-size: 18px;
+}
+
+
+
+.final-content{
+    position: absolute;
+    list-style-type: none;
+    color: #fff;
+    display: flex;
+    margin-top: 60px;
+    margin-left: 533px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.final-content li{
+    padding: 15px;
+}
